@@ -1,0 +1,12 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.db-journal
+.DS_Store
+Thumbs.db
+nbactions.xml
+nb-configuration.xml
+.idea/
+*.iml
